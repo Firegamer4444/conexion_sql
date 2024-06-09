@@ -4,6 +4,7 @@ public class Categorias {
     private String categoria;
     private String descripcion;
 
+    // Constructor, getters y setters
     
     public Categorias(String categoria, String descripcion) {
         this.categoria = categoria;

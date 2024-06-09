@@ -4,6 +4,8 @@ public class Provincias {
     private int provincia;
     private String nombreProvincia;
 
+    // Constructor, getters y setters
+
     public Provincias(int provincia, String nombreProvincia) {
         this.provincia = provincia;
         this.nombreProvincia = nombreProvincia;
